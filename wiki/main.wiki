@@ -19,9 +19,8 @@
 <p>filter类采用包装器模式,所有过滤器内部持有一个过滤器引用,实现链式处理</p>
 <p>Unicode包的Unicode2AsciiUtils从网上直接down下来的,来源:</p>
 <p><a href="http://soulshard.iteye.com/blog/346807" rel="nofollow">http://soulshard.iteye.com/blog/346807</a>
-  作者网民:
+  作者网名:
   soulshard
 </p>
 <p>编码检测基于juniversalchardet,准确性好过jchardet</p>
 <p>文件MIME值检测基于mime-util</p>
-<p>&nbsp;</p>
