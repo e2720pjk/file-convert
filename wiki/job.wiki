@@ -12,12 +12,12 @@
     <p>课余时间在写一个开发辅助软件</p><p>利用maven:archetype生成工程框架</p><p>Freemarker,反射等途径提取数据,生成目标类.</p>
   </li>
 </ul>
-<p> <strong>接触过的语言</strong>:JavaScript,Python，Ruby，Scala，PHP，C#，C++，最喜欢Scala ,但很少用.</p>
+<p> <strong>接触过的语言</strong>:JavaScript  ,Python，Ruby，Scala，PHP，C#，C++，最喜欢Scala ,但很少用.</p>
 <p><strong>经验</strong>:正式写代码时间9个月左右,代码量5万行左右.</p>
 <p><strong>学历</strong>:河北工业大学软件技术(大专) </p>
 <p><strong>英语</strong>:六级</p>
 <p><strong>预期薪资</strong>:3500-4500</p>
-<p>工作地点不限,薪水合适--&gt;搬家,外地工作更好.</p>
+<p>工作地点不限,薪水合适就搬家,在外地工作更好.</p>
 <p><strong>自我评价:</strong></p>
 <p>喜欢编程,阅读.说话不逗,但主动合群.性格谨慎,</p>
 <p>工作类型测试得分最高三项:技术,服务,挑战.</p>
