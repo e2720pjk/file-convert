@@ -9,8 +9,8 @@
     <li>flter包 文件过滤器</li>
     <li>detector包 文件侦测类(编码,文件MIME值)</li>
     <li>unicode包 Unicode转码工具类</li>
-    <li>ConvertFile类 文件编码转换</li>
-    <li>ScanPath类 扫描目录,获得目标文件集合  </li>
+    <li>ConvertFile 类 文件编码转换</li>
+    <li>ScanPath 类 扫描目录,获得目标文件集合  </li>
   </ul>
   </li>
 </ul>
