@@ -1,0 +1,25 @@
+<h1>程序设计</h1>
+<h2>包结构</h2>
+<ul>
+<blockquote><li>model-存放业务逻辑,BatchConvert(文件编码批量转换)</li>
+<li>view-存放窗体代码,MainFrame(主窗体)</li>
+<li>controller-控制器,Context(存放转码准备数据,转发业务逻辑,异常处理)</li>
+<li>util-工具类<ul>
+<blockquote><li>flter包 文件过滤器</li>
+<li>detector包 文件侦测类(编码,文件MIME值)</li>
+<li>unicode包 Unicode转码工具类</li>
+<li>ConvertFile  类 文件编码转换</li>
+<li>ScanPath 类 扫描目录,获得目标文件集合  </li>
+</blockquote></ul>
+</li>
+</ul>
+<h2>细节</h2>
+<p>MainFrame利用IDE生成，代码很乱</p>
+<p>filter类采用包装器模式,所有过滤器内部持有一个过滤器引用,实现链式处理</p>
+<p>Unicode包的Unicode2AsciiUtils从网上直接down下来的,来源:</p>
+<p><a href='http://soulshard.iteye.com/blog/346807'><a href='http://soulshard.iteye.com/blog/346807'>http://soulshard.iteye.com/blog/346807</a></a>
+作者网名:<br>
+soulshard<br>
+</p>
+<p>编码检测基于juniversalchardet,准确性好过jchardet</p>
+<p>文件MIME值检测基于mime-util</p>
